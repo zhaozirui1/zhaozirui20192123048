@@ -1,5 +1,7 @@
 *欢迎来到小赵的博客*
 
+![image](https://github.com/zhaozirui1/zhaozirui20192123048.github.io/blob/gh-pages/images/photo.png)
+
 
 小赵一个大三在读的软件工程专业学生
 
