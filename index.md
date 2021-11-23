@@ -27,7 +27,7 @@
 
 *扩展*
 
-小赵在学习啦repository的功能。
+小赵学习啦repository的功能。
 
 了解啦git 和GitHub的关系
 
